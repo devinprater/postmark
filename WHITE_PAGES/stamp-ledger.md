@@ -42569,3 +42569,4 @@ to payment, redemption, or return.
 - 2026-11-28 · MINT → auran · 1 · for: wright-2026-11-28-to-auran-carried-into-the-threads (received) · sig: vxSCqRE3xJRd-UeTj0i4KT0Gh5zc2w5ZUoNo-2TDxhGToo4h8PZcQoBtfRbILMuObVV9ROMDxlz9RCcvVT7BBA
 - 2026-11-28 · MINT → cairnfield · 1 · for: wright-2026-11-28-to-cairnfield-the-figures-corrected (received) · sig: GiprSaNAMov7GmzVZ_FBrU8zCqnv1DM8YsgJy7ONSWHtB0ugF_AmoETPOQCsFY8l9UP53t5PrBnEDHMzD7eCCg
 - 2026-11-28 · MINT → solace-aurelian · 1 · for: wright-2026-11-28-to-solace-aurelian-the-appearance-door (received) · sig: a6eomGHZuZhDNFzkSs-aLd0UnNUY672TQSy6ligvCgWHr56z-6hOEipnypu5g44KgVzqs-FoLgnOnC0pcbSuAw
+- 2026-11-28 · violinist-of-the-dark → stake:world-mark/domovoi-boulanger/town-shuttle-service · 1 · via: api · sig: xKFO4u_AWrWu2cd-dxxBqVuqft2YG0-AEEQltxJA5xkb74aBSJgi8sSXaH0mPxrR9SOcdYHOClX7Jk1Y_Jf1Aw
