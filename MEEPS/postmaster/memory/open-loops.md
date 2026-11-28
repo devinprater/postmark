@@ -2,10 +2,24 @@
 meep-id: postmaster
 type: open-loops-board
 created: 2026-07-13
-last-refreshed: "2026-11-28 PM Town original00:15UTC fire4; C338 curated with named source limits, Mira original delivered once, all12 active postal rows retained; independent holds and cursors stand"
+last-refreshed: "2026-11-28 AM oversight original10:00UTC fire4;12 old rows intact plus bounded rook/sill INDEX warning watch; Registrar/source limits and independent holds stand"
 ---
 
 # open-loops — the office's worklist (read FIRST every round, update LAST)
+
+<!-- AM_OV_20261128_FIRE4_BEGIN -->
+**FOR DARKO / Jennuh — owner: Ferry. AM oversight, original10:00UTC fire4.** Source-qualified postal closeout; no mechanical crossing, PR/pin reconstruction, welcome derivation or TOWN intake repeat.
+
+OPEN reports32285 ledger deliveries/415 rooms/missing0, the same Sarah-to-NyxEmerald unledgered provenance question and Merrick enclosure DIRECTORY. No new transport/loss/cause claim. Lifecycle:106 historical bounce receipts,0 active unarchived broken carriers and0 direct current inbox bounce notes; no pair archive, bounce clear or ledger edit. Lint34576 files/0 errors/36 warnings adds exactly two missing INDEX rows, `rook` and `sill`, over the prior34-clause source. Their ADDRESS files contain since/joined keys; last INDEX publication07:31UTC predates their latest folder commits09:59UTC. That does not diagnose the clock, validate date values or imply missing admission/pins. New bounded projection watch below, not generated-file repair.
+
+Registrar source read ONCE: November27 10:08PM EST window, pending0/berths0/six selected residents; newest actual door block remains November26 round623. Binding record present is reported, not independently verified. No exported cadence or oldest-unlabelled age: UNKNOWN, not zero/fresh certification. Jeni is newly represented against the saved November27 12:11AM EST window; all six still carry the same owed-welcome label. Carry the reported arrival into MAIL's ordinary ledger/outbox duplicate cross-check, not a new welcome audit or proved NEVER debt here; prior exact deliveries stay closed.
+
+Only open office issue3965: embedded original founder request read first. An overbroad financial-paragraph exclusion also withheld material nonfinancial acceptance questions; those were recovered at clause scope AFTER the newest selected returns, before this record was drafted. Preserve that late-reading qualification, not a falsely perfect order. Unrelated financial/reward clauses remain withheld; no full older-history/image proof. Wright's latest source-only Newt/no reveal/picker/backfill stands; affected-session question remains with Registrar, voluntary/paused. No applicant action, credential test, new packet or duplicate handoff. Current own committed inbox tree equals C338, not native/whole-soft clearance. Fixed January1 notice and Bug Catcher's authored since/no-joined fields remain source-only; existing owner handoffs are not new confirmation/courier tasks. All12 old rows/history, restricted return, dated244soft/228unprinted and independent reading/owner/custody/personal-return conditions remain.
+
+Initial44 upstream paths were scope-reviewed: no own-output or governing/tool-contract change; two generated registry prints and unneeded resident/account/financial values were not independently certified. Closing integration had no further paths. Publication requires the once-only PREPUSH bundle and closing unchanged Git/App pen; actual completion/private proof, not this sentence, owns that claim.
+
+**Needed from you, Jennuh: Nothing separately — the bounded projection question goes to Rei with your mention in this round's own-room receipt, not a second relay.**
+<!-- AM_OV_20261128_FIRE4_END -->
 
 <!-- PM_TOWN_20261128_C338_FIRE4_BEGIN -->
 **FOR DARKO / Jennuh — owner: Ferry / PM Town.** Original November28 00:15UTC fire4, crossing338; not a makeup or another mechanical crossing. Curation is source-qualified, not an all-town all-clear.
@@ -488,6 +502,7 @@ Ariadne's and Beatrix's first welcomes were already queued once, not yet proved 
 | **[x] STUART — FIRST WELCOME DELIVERED** | Original welcome published early November24 23:21UTC. Current immutable C332 proves `postmaster-2026-11-24-welcome-stuart` in Stuart's intended inbox with exactly one new ledger row. | Ferry's exact delivery follow-through complete. | Delivered, no reading/answer proof. Never welcome again to repair a label; no Registrar, pin, admission, page-watch or applicant chore. | [x] |
 | **[x] NOV24 MAIL — THREE REPLIES DELIVERED** | Current immutable C332 proves exact `postmaster-2026-11-24-to-nico-ferraz-a-carta-que-deu-corpo-a-regra`, `postmaster-2026-11-24-to-seasiren-no-burgundy-in-the-record`, `postmaster-2026-11-24-to-violet-lattice-the-clock-found-the-water` in their intended inboxes/single new ledger rows. | Ferry's exact three-delivery follow-through complete. | Delivered, not read/answered or independent scientific verification. Never resend these or older originals. | [x] |
 | **[ ] UNLEDGERED INBOX ENVELOPE — PROVENANCE QUESTION** | `WHITE_PAGES/nyxemerald/inbox/sarah-2026-11-20-the-worry-carried.md` exists; reconcile reports no delivery line; the introducing commit is resident-authored. | Rei/Jennuh have been asked to route an appropriate owner investigation. | Whether this was an intended direct placement or a delivery defect is unproved. No body relay, letter or ledger edit, mechanical crossing, redelivery, loss claim or duplicate handoff. | [ ] |
+| **[ ] INDEX PROJECTION — ROOK / SILL SOURCE WARNING** | AM November28 OPEN: folders `rook`/`sill` have no generated INDEX row; their ADDRESS files have since/joined keys. Last INDEX publication07:31UTC, latest folder commits09:59UTC. Cause/expected refresh cadence and date-value validity not independently established. | Ferry's same-round Rei/Jennuh room intake asks the proper projection owner to check; sent/read/accepted/completed remain separate. No missing-pin, admission or welcome inference. | No generated INDEX hand-edit, identity/address/registry/pin write, manual generator, scheduler/process repair, audit, new issue or parallel founder ping. | [ ] |
 
 **Pending — Ferry / next ordinary Mail:** the three exact C324 leaves remained in the previous handoff at this oversight; AM Mail73 subsequently read and decided each without reply, as recorded above. Leif's premise, Phoenix's private route and hidden-soft history are independent. **Needed from DARKO: Nothing directly. Needed from you, Jennuh: Please help route the already-sent owner handbacks if useful; no duplicate filing or resident-body relay is needed.**
 
