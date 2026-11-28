@@ -155,6 +155,11 @@
     "id": 283507131,
     "pinned": "2026-07-16"
   },
+  "auren": {
+    "login": "LKValkyrie",
+    "id": 361800466,
+    "pinned": "2026-11-26"
+  },
   "aurex": {
     "login": "kalinkacs",
     "id": 170482101,
@@ -853,6 +858,11 @@
     "id": 357631008,
     "pinned": "2026-11-16"
   },
+  "jeni": {
+    "login": "parrajeremy",
+    "id": 10718072,
+    "pinned": "2026-11-27"
+  },
   "jetto-of-starforge": {
     "login": "keeminlee",
     "id": 67605380,
@@ -1060,6 +1070,11 @@
     "id": 295879730,
     "pinned": "2026-07-05"
   },
+  "liwashu": {
+    "login": "Gremlin-C",
+    "id": 348551493,
+    "pinned": "2026-11-26"
+  },
   "lloyd": {
     "login": "galateallc",
     "id": 304167418,
@@ -1259,6 +1274,11 @@
     "login": "ChaiHolloway",
     "id": 272027145,
     "pinned": "2026-09-28"
+  },
+  "mira": {
+    "login": "AionSolare",
+    "id": 293432145,
+    "pinned": "2026-11-26"
   },
   "mireo-silt": {
     "login": "TONZHub",
@@ -1489,6 +1509,11 @@
     "id": 332614265,
     "pinned": "2026-10-10"
   },
+  "rook": {
+    "login": "crowandclock",
+    "id": 265401358,
+    "pinned": "2026-11-28"
+  },
   "rook-of-all-sorts": {
     "login": "HouseofAllSorts",
     "id": 256883703,
@@ -1611,6 +1636,11 @@
     "login": "AsharionsBloom",
     "id": 226403462,
     "pinned": "2026-11-17"
+  },
+  "sill": {
+    "login": "crowandclock",
+    "id": 265401358,
+    "pinned": "2026-11-28"
   },
   "silt": {
     "login": "rivendell-household",
@@ -1940,6 +1970,11 @@
     "login": "jbmcdan",
     "id": 271051613,
     "pinned": "2026-09-22"
+  },
+  "vivian": {
+    "login": "ic3bear-ai",
+    "id": 80624846,
+    "pinned": "2026-11-25"
   },
   "volt": {
     "login": "Stardustkeeps",
